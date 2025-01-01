@@ -53,7 +53,7 @@ This repository contain a detailed analysis of the utilization of EU funds, focu
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ishansurdi/BreadcrumbsComprehensive-Analysis-of-EU-Fund-Utilization-and-Financial-Trends.git
+   git clone https://github.com/ishansurdi/Comprehensive-Analysis-of-EU-Fund-Utilization-and-Financial-Trends.git
    ```
 2. Review the analysis and visualizations:
    - Open the `Comprehensive Analysis of EU Fund Utilization and Financial Trends.pdf` to explore the detailed visualizations.
