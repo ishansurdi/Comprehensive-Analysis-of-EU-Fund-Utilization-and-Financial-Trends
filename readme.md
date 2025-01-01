@@ -77,4 +77,4 @@ For inquiries or collaboration, please contact:
 - **LinkedIn**: [www.linkedin.com/in/ishansurdiofficial](www.linkedin.com/in/ishansurdiofficial)
 
 ---
-Thank you for exploring this project. We look forward to you feedback and contributions!
+Thank you for exploring this project. I look forward to you feedback and contributions!
